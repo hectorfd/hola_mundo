@@ -73,5 +73,4 @@ void main(){
   ele1.miDescripcion = '16gb ram, intel core I7, 500gb HDD';
   ele1.miCantidad = 20;
   print(ele1.imprimir());
-
 }
